@@ -11,6 +11,7 @@ This category is for experimental autopilots (and autopilot "platforms") that ar
 - [BeagleBone Blue](../flight_controller/beaglebone_blue.md)
 - [Raspberry Pi 2/3 Navio2](../flight_controller/raspberry_pi_navio2.md)
 - [Raspberry Pi 2/3/4 PilotPi Shield](../flight_controller/raspberry_pi_pilotpi.md)
+- [Renesas RZ/V2H Evaluation Kit](../flight_controller/renesas_rzv2h.md)
 
 Boards in this category must work with at least one PX4 release for a defined vehicle type.
 They may not be compatible with the current PX4 release, and compatibility is not maintained by the project for future releases.
